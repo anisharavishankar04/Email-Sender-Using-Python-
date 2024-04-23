@@ -2,10 +2,10 @@ import ssl
 import smtplib
 from email.message import EmailMessage
 
-email_sender = 'anisharavishankar04@gmail.com'
-email_password = 'pzpi ceri gjyw ttea'  
+email_sender = 'sendermain@gmail.com'
+email_password = 'yourpassword'  
 
-email_receiver = 'drsmithabk@gmail.com'
+email_receiver = 'receivermail@gmail.com'
 
 subject = "You are a squeaky toy"
 body = "You are a squeaky toy, kiddo"
